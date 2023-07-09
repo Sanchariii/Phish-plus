@@ -1,6 +1,6 @@
-## Phish plus
+# Phish plus
 
-## Overview:
+# Overview:
 Welcome to the Phishing Sites Predictor, a FastAPI application designed to predict the likelihood of a website being a phishing site. This repository contains the code and resources necessary to deploy and run the application. With the help of machine learning, this project aims to enhance cybersecurity efforts by identifying potential phishing sites accurately.
 
 # Features:
